@@ -11,13 +11,13 @@ def instructions(response):
     instruction_string = "Rock beats scissors, scissors beats paper, and paper beats rock. "
 
     # Use a string method to make response all one case
-    waterloo
+    
     # Use an if statement to check if the response is "yes"
     
     # If the user does want instructions pass instruction_string to
     # rps.print_instructions
 
-
+    Changes changes changes changes
 
 
 
